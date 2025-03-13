@@ -55,7 +55,7 @@ Just open the `index.html` file in your browser to start using the app!
 ---
 
 ## 🌐 Live Demo
-[Preview the To-Do List App](https://farvejfaru.github.io/To-Do-App/)
+[Preview the To-Do List App](https://todo-list-app-farvejshaik.netlify.app/)
 
 ---
 
